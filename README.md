@@ -1,2 +1,2 @@
-# azure-function-app
-azure function app
+# functions-simple
+A simple function example.
